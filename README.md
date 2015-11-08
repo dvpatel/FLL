@@ -3,5 +3,5 @@ First Lego League
 
 Subfolders:
 	-  TrashTrek
-	-  WCC
-	-  NaturesFury
+	-  WCC (WorldClassChallenge)
+	-  NF (NaturesFury)
